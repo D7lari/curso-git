@@ -1,3 +1,4 @@
-Meu primeiro repositÛrio Git
-Aprendendo Git na pr·tica
-Aprendendo a sincronizaÁ„o com o GitHub
+Meu primeiro reposit√≥rio Git
+Aprendendo Git na pr√°tica
+Aprendendo a sincroniza√ß√£o com o GitHub
+Editando diretamente no GitHub
